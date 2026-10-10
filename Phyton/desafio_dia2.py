@@ -1,6 +1,6 @@
 producto = "Notebooks"
 precio_unitario = 650000
-cantidad_vendida = 4
+cantidad_vendida = 0
 
 total_producto_vendido = precio_unitario * cantidad_vendida
 
